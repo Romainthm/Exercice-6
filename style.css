@@ -1,0 +1,54 @@
+#vert{
+  background-color:#3ADF00;
+  height: 20px;
+  width: 80%;
+  float: left;
+}
+#bleu{
+  background-color:#2E64FE;
+  height: 20px;
+  width: 20%;
+  float: left;
+}
+#rouge{
+  background-color:#FE2E2E;
+  height: 80px;
+  width: 30%;
+  float: left;
+}
+#orangef{
+  background-color:#DC7633;
+  height: 40px;
+  width: 35%;
+  float: left;
+}
+#gris{
+  background-color:#b4b4b4;
+  height: 40px;
+  width: 35%;
+  float: left;
+}
+#orangec{
+  background-color:#ff8535;
+  height: 40px;
+  width: 23%;
+  float: left;
+}
+#bleuc{
+  background-color:#3584ff;
+  height: 40px;
+  width: 23%;
+  float: left;
+}
+#orangeff{
+  background-color:#FE2E2E;
+  height: 40px;
+  width: 24%;
+  float: left;
+}
+#bleuf{
+  background-color:#004abd;
+  height: 60px;
+  width: 100%;
+  float: left;
+}
